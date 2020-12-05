@@ -2,5 +2,7 @@
 ## Background
 This project is for retinal funudus image analysis
 ### Authors
+**Grace Cabrera**
 **Mahmoud Fakhouri**
-*University of Florida*
+**Isabel Munoz**
+**April Olson**
